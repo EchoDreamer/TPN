@@ -1,0 +1,1 @@
+python train.py --num_epochs 0 --query_docs_train 1 --query_docs_eval 1 --support_docs_train 3 --support_docs_eval 3 --balancing_train single --balancing_eval single --dataset FREDo --seed_model 123 --load_checkpoint checkpoints/FREDo_single.pt
