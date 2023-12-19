@@ -1,0 +1,2 @@
+
+python train.py --num_epochs 0 --query_docs_train 1 --query_docs_eval 1 --support_docs_train 3 --support_docs_eval 3 --balancing_train hard --balancing_eval hard --dataset ReFREDo --seed_model 123 --load_checkpoint checkpoints/ReFREDo_hard.pt
