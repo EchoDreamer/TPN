@@ -1,4 +1,4 @@
-# TPN
+# This is the source code of IJCNN 2024 paper TPN: Transferable Proto-Learning Network towards Few-shot Document-Level Relation Extraction
 
 ## Dependencies
 
